@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896066909653",
+    "firebase_url": "https://iotparking-c61b6.firebaseio.com",
+    "project_id": "iotparking-c61b6",
+    "storage_bucket": "iotparking-c61b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896066909653:android:f261696e907cd7b7",
+        "android_client_info": {
+          "package_name": "com.tech.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896066909653-6mdsjsuckp89hhnot6k2leg24ju5arhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.parking",
+            "certificate_hash": "1eb9b32afc291b12afd1715cdef4b23b89d440f3"
+          }
+        },
+        {
+          "client_id": "896066909653-h4iriifj07h4532r70l93pl8rps6l3e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDri8GEwFE2Kmzgh4-JVpzUBRhMJFZgMKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896066909653-h4iriifj07h4532r70l93pl8rps6l3e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
