@@ -1,8 +1,5 @@
-<dev>
-  <p>#IoT based parking system for android</p>
-  </dev>
 
-# IoT based parking system for android
+# IoT based smart parking system for android
 
 Application includes below:
   - Clients with android application
