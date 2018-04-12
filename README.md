@@ -5,5 +5,5 @@
 
 <br/>
   <p>Sample Screens</p>
-  <img height='1000' width='600' src='app/src/main/res/drawable/login.png' />
+  <img height='1000' width='600' src='react_native.png' />
   
